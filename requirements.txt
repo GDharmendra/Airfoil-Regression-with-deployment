@@ -7,5 +7,5 @@ jinja2
 scipy
 sklearn
 werkzeug
-scikit-lear
+scikit-learn
 matplotlib
